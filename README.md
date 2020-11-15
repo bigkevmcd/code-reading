@@ -30,6 +30,22 @@ skills.
 
 ## Java
 
+### UK Government Payments Public API
+
+[https://github.com/alphagov/pay-publicapi](./Java/alphagov_pay-publicapi)
+
+### Apache James Email Server
+
+[https://github.com/apache/james-project](./Java/apache_james-project)
+
+### UK Government Payments Reporting
+
+[https://github.com/alphagov/pay-ledger](./Java/alphagov_pay-ledger)
+
+### UK Govermnent Letter sending service
+
+[https://github.com/hmcts/send-letter-service](./Java/hmcts_send-letter-service)
+
 ## Scala
 
 ## Ruby
