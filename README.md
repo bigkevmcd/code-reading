@@ -18,6 +18,14 @@ skills.
 
 ## JavaScript
 
+### Origami Image Service
+
+[https://github.com/Financial-Times/origami-image-service](./JavaScript/Financial-Times_origami-image-service)
+
+### Scottish (Irish) Covid Backend
+
+[https://github.com/HSEIreland/covid-green-backend-api](./JavaScript/HSEIreland_covid-green-backend-api)
+
 ## TypeScript
 
 ## Java
