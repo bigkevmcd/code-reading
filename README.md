@@ -62,19 +62,77 @@ https://github.com/salesforce/carbonj
 
 ## Ruby
 
+### Alphagov Publisher
+
+Rails App
+
+[https://github.com/alphagov/publisher](./alphagov_publisher)
+
+### Alphagov Email Alert API
+
+Rails App
+
+[https://github.com/alphagov/email-alert-api](./alphagov_email-alert-app)
+
 ## Go
+
+### Image Reflector Controller
+
+[https://github.com/fluxcd/image-reflector-controller](./Go/fluxcd_image-reflector-controller)
+
+### Kubernetes
+
+https://github.com/kubernetes/kubernetes
 
 ## Python
 
+### Pretalx Conference Management
+
+[https://github.com/pretalx/pretalx](./Python/pretalx_pretalx)
+
+### Jira hook handler
+
+[https://github.com/InsolvencyService/Jira-Service](./Python/InsolvencyService_Jira-Service)
+
 ## DotNet Core
+
+### Redundancy Payment Calculator
+
+[https://github.com/InsolvencyService/RPSCalculationEngine](./DotNet/InsolvencyService_RPSCalculationEngine)
 
 ## C++
 
+### Commodore64 Emulator
+
+https://github.com/marioballano/emudore
+
+https://en.wikipedia.org/wiki/Commodore_64#/media/File:C64_Block_Diagram_new.svg
+
 ## Smalltalk
+
+### ESug Regis
+
+[https://github.com/Lin777/Regis](./Smalltalk/Lin777_Regis)
+
+### SUnit
+
+[https://github.com/pharo-project/pharo/tree/Pharo9.0/src/SUnit-Core](./Smalltalk/pharo_sunit)
+
+[https://github.com/gnu-smalltalk/smalltalk/tree/master/packages/sunit](./Smalltalk/gnu_smalltalk_sunit)
+
+### Teachable
+
+[https://github.com/astares/Pharo-Teachable](./Smalltalk/astares_Pharo-Teachable)
 
 ## Elixir
 
+https://github.com/lexmag/statix
+
 ## Erlang
+
+[https://github.com/heroku/redo](./Erlang/heroku_redo)
+
+[https://github.com/beam-telemetry/telemetry_poller](./Erlang/beam_telemetry_telemetry_poller)
 
 ## Template
 
