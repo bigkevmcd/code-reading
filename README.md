@@ -26,6 +26,12 @@ skills.
 
 [https://github.com/HSEIreland/covid-green-backend-api](./JavaScript/HSEIreland_covid-green-backend-api)
 
+## TypeScript
+
+### Scottish (Irish) Covid Mobile App
+
+[https://github.com/HSEIreland/covid-tracker-app](./TypeScript/HSEIreland_covid-tracker-app)
+
 ## Java
 
 ### UK Government Payments Public API
