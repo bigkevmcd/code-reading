@@ -26,8 +26,6 @@ skills.
 
 [https://github.com/HSEIreland/covid-green-backend-api](./JavaScript/HSEIreland_covid-green-backend-api)
 
-## TypeScript
-
 ## Java
 
 ### UK Government Payments Public API
@@ -46,7 +44,21 @@ skills.
 
 [https://github.com/hmcts/send-letter-service](./Java/hmcts_send-letter-service)
 
+### German Corona-Warn-App Testresult Server
+
+https://github.com/corona-warn-app/cwa-testresult-server
+
+### CarbonJ - A high-performance drop-in replacement to carbon-relay and carbon-cache
+
+A Java-based Spring Boot application
+
+https://github.com/salesforce/carbonj
+
 ## Scala
+
+### UK Government Soft Drinks Levy API
+
+[https://github.com/hmrc/soft-drinks-industry-levy](./Scala/hmrc_soft-drinks-industry-levy)
 
 ## Ruby
 
