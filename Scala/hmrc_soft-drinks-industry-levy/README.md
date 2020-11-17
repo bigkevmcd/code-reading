@@ -6,6 +6,6 @@ https://github.com/hmrc/soft-drinks-industry-levy
 
 https://github.com/hmrc/soft-drinks-industry-levy/blob/master/conf/app.routes
 
-## Threads to pull on?
+## Threads to pull on
 
 What happens when a subscription is created?
