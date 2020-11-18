@@ -8,11 +8,11 @@ How does it work?
 
 ## Where to start?
 
-https://github.com/fluxcd/image-reflector-controller/blob/main/main.go
+https://github.com/fluxcd/image-reflector-controller/blob/b2e4bfed35a47271710e553d5f649fe973ece70a/main.go
 
 Find the implementations of this interface: https://godoc.org/sigs.k8s.io/controller-runtime/pkg/reconcile#Reconciler
 
-There are two [Controllers](https://kubernetes.io/docs/concepts/architecture/controller/).
+There are two [Controllers](https://kubernetes.io/docs/concepts/architecture/controller/). 
 
 https://github.com/fluxcd/image-reflector-controller/blob/b2e4bfed35a47271710e553d5f649fe973ece70a/main.go#L97-L117
 
