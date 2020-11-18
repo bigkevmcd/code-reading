@@ -134,8 +134,6 @@ https://en.wikipedia.org/wiki/Commodore_64#/media/File:C64_Block_Diagram_new.svg
 
 ### SUnit
 
-[https://github.com/pharo-project/pharo/tree/Pharo9.0/src/SUnit-Core](./Smalltalk/pharo_sunit)
-
 [https://github.com/gnu-smalltalk/smalltalk/tree/master/packages/sunit](./Smalltalk/gnu_smalltalk_sunit)
 
 ### Teachable
