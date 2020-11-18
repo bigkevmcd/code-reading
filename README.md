@@ -168,6 +168,12 @@ https://github.com/lexmag/statix
 ## Threads to pull on
 ```
 
+## Collaborating remotely
+
+https://excalidraw.com/
+
+https://yuml.me/
+
 ## Further reading
 
 Dave Thomas
