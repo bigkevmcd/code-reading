@@ -58,17 +58,15 @@ Spring-boot based API for sending physical letters.
 
 [https://github.com/hmcts/send-letter-service](./Java/hmcts_send-letter-service)
 
-### German Corona-Warn-App Testresult Server
-
-Sprint-boot based API for handling Covid test results.
-
-[https://github.com/corona-warn-app/cwa-testresult-server](./Java/corona-warn-app_cwa-testresult-server)
-
 ### CarbonJ - A high-performance drop-in replacement to carbon-relay and carbon-cache
 
 A Java-based Spring Boot application
 
 [https://github.com/salesforce/carbonj](./Java/salesforce_carbonj)
+
+### Togglz - Feature Flags for the Java platform
+
+[https://github.com/togglz/togglz](./Java/togglz_togglz)
 
 ## Scala
 
@@ -96,9 +94,13 @@ Rails App
 
 ### Image Reflector Controller
 
+Kubernetes custom controller
+
 [https://github.com/fluxcd/image-reflector-controller](./Go/fluxcd_image-reflector-controller)
 
 ### Kubernetes
+
+Core Kubernetes model
 
 [https://github.com/kubernetes/kubernetes](./Go/kubernetes_kubernetes)
 
@@ -118,14 +120,6 @@ Rails App
 
 [https://github.com/InsolvencyService/RPSCalculationEngine](./DotNet/InsolvencyService_RPSCalculationEngine)
 
-## C++
-
-### Commodore64 Emulator
-
-https://github.com/marioballano/emudore
-
-https://en.wikipedia.org/wiki/Commodore_64#/media/File:C64_Block_Diagram_new.svg
-
 ## Smalltalk
 
 ### ESug Regis
@@ -139,10 +133,6 @@ https://en.wikipedia.org/wiki/Commodore_64#/media/File:C64_Block_Diagram_new.svg
 ### Teachable
 
 [https://github.com/astares/Pharo-Teachable](./Smalltalk/astares_Pharo-Teachable)
-
-## Elixir
-
-https://github.com/lexmag/statix
 
 ## Erlang
 
