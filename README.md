@@ -74,6 +74,8 @@ A Java-based Spring Boot application
 
 ### UK Government Soft Drinks Levy API
 
+Play-based API for tax subscriptions.
+
 [https://github.com/hmrc/soft-drinks-industry-levy](./Scala/hmrc_soft-drinks-industry-levy)
 
 ## Ruby
@@ -82,13 +84,13 @@ A Java-based Spring Boot application
 
 Rails App
 
-[https://github.com/alphagov/publisher](./alphagov_publisher)
+[https://github.com/alphagov/publisher](./Ruby/alphagov_publisher)
 
 ### Alphagov Email Alert API
 
 Rails App
 
-[https://github.com/alphagov/email-alert-api](./alphagov_email-alert-app)
+[https://github.com/alphagov/email-alert-api](./Ruby/alphagov_email-alert-app)
 
 ## Go
 
@@ -98,7 +100,7 @@ Rails App
 
 ### Kubernetes
 
-https://github.com/kubernetes/kubernetes
+[https://github.com/kubernetes/kubernetes](./Go/kubernetes_kubernetes)
 
 ## Python
 
