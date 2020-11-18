@@ -2,8 +2,6 @@
 
 https://github.com/apache/james-project
 
-Modular server for building mail servers in Java.
-
 ## Where to start?
 
 https://github.com/apache/james-project/blob/master/mailet/api/src/main/java/org/apache/mailet/Mailet.java

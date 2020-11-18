@@ -36,23 +36,33 @@ skills.
 
 ### UK Government Payments Public API
 
+Dropwizard-based Public Payments API.
+
 [https://github.com/alphagov/pay-publicapi](./Java/alphagov_pay-publicapi)
 
 ### Apache James Email Server
+
+Modular server for building mail servers in Java.
 
 [https://github.com/apache/james-project](./Java/apache_james-project)
 
 ### UK Government Payments Reporting
 
+Dropwizard-based API for Pay Ledger.
+
 [https://github.com/alphagov/pay-ledger](./Java/alphagov_pay-ledger)
 
 ### UK Govermnent Letter sending service
+
+Spring-boot based API for sending physical letters.
 
 [https://github.com/hmcts/send-letter-service](./Java/hmcts_send-letter-service)
 
 ### German Corona-Warn-App Testresult Server
 
-https://github.com/corona-warn-app/cwa-testresult-server
+Sprint-boot based API for handling Covid test results.
+
+[https://github.com/corona-warn-app/cwa-testresult-server](./Java/corona-warn-app_cwa-testresult-server)
 
 ### CarbonJ - A high-performance drop-in replacement to carbon-relay and carbon-cache
 
