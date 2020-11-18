@@ -58,7 +58,7 @@ https://github.com/corona-warn-app/cwa-testresult-server
 
 A Java-based Spring Boot application
 
-https://github.com/salesforce/carbonj
+[https://github.com/salesforce/carbonj](./Java/salesforce_carbonj)
 
 ## Scala
 
